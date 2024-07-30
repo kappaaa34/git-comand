@@ -4,6 +4,7 @@
 git clone url (英語)
 ~~~
 ## リポジトリの編集
+[qiita先生 git command 早見表](https://qiita.com/kohga/items/dccf135b0af395f69144)
 ### 初期設定
 .gitconfig file はユーザーフォルダの直下に作られる
 ~~~
