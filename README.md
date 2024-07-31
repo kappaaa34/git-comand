@@ -12,7 +12,7 @@ $ git config --global user.name "XXXX"
 $ git config --global user.email "XXXX@hogehoge.com"
 $ git config --list
 ~~~
-### 初期設定
+### データの編集
 ~~~
 $ git remote add origin httpXXXXXXX # 編集場所として設定
 $ git pull origin master # 編集するためにソースをコピー　clone的な
